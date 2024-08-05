@@ -2,9 +2,9 @@
 
 ### Petunjuk Pengerjaan
 
-Fork repository ini ke akun GitHub masing-masing, lalu kerjakan soal dan simpan file kode ke direktori yang sesuai.
+**Fork** repository ini ke akun GitHub masing-masing, **clone** ke laptop/komputer masing-masing, lalu kerjakan soal dan simpan file kode ke direktori yang sesuai.
 
-Waktu pengerjaan adalah 4 jam, silahkan beristirahat sewaktu-waktu.
+Setelah selesai, **push** hasil pekerjaan ke repo hasil fork di GitHub masing-masing.
 
 ### A. Pemrograman Dasar
 
